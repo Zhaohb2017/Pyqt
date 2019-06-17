@@ -1,0 +1,23 @@
+
+# 俱乐部账号 5
+site_id: 2
+channel_id: 2024
+gp_id: 101
+#===================== 本地
+server_ip: '192.168.1.28'
+# ===============
+#  测试服
+test_server_ip: "120.27.138.177"    #118.178.135.235
+test_server_port_master: 9017   #主版本
+server_port_master: 9037   #主版本
+server_port_changsha: 9011   #长沙版本
+server_port_changde: 9010   #常德版本
+
+#=======================================
+
+
+
+
+
+
+

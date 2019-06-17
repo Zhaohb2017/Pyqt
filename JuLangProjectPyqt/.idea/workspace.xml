@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91b2cd0e-20b7-464a-a73e-7a77449aab5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GetCardData/playBackYards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midConnectTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wxSend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PLM/testORC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PLM/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PLM/zhao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RegressionTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gale/TesterRunner/TowDay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/.idea/MajiangMidTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/allPlayingMethodTest/Hengyang_Sixhurob/test_point_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/allPlayingMethodTest/Hengyang_Sixhurob/test_point_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/allPlayingMethodTest/Hengyang_Sixhurob/test_point_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/allPlayingMethodTest/Hengyang_Sixhurob/test_point_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/allPlayingMethodTest/RunFast/fifteen_card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/allPlayingMethodTest/RunFast/sixteen_card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/allPlayingMethodTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/allPlayingMethodTest/changDeControlScore/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/allPlayingMethodTest/changDeControlScore/multithreadingTestcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/allPlayingMethodTest/changDeControlScore/testcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/allPlayingMethodTest/paohuzi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/allPlayingMethodTest/paohuzi/shaoyangbopi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/common/DBconnect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/common/controlScoreApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/common/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/common/packaging_controlScoreApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/common_2/PublicTestApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/common_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/common_2/common_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/conf/majiang/majiang.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/lib/HTMLTestRunner/HTMLTestRunnerEN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/lib/HTMLTestRunner/QSCommon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/lib/phz/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/lib/phz/define/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/lib/phz/define/phz_play_definition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/lib/phz/define/protocol_define.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/lib/phz/define/protocol_entity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/lib/phz/net/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/lib/phz/net/connecter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/lib/phz/net/net_package.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/lib/phz/net/net_unpack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_134433usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_134439usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_134444usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_140021usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_140032usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_142540usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_142640usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_142641usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_142830usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_184358usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_184514usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_184616usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_184745usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_184938usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_184944usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_184949usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_184950usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_190631usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_190641usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_190642usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_193514usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_193525usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_195934usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_195939usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_195944usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-25_195945usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_090313usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_090314usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_090324usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_090325usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_092350usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_092401usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_094927usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_095031usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_095032usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_095131usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_095142usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_095143usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_102121usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_102131usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_102132usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_103419usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_103512usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_103603usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_103608usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_103613usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_103614usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_110859usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_111048usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_111059usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_121429usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_121615usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_122455usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_133605usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_134402usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_134413usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_150314usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_150320usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_150324usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_150325usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_153007usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_162624usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_162634usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_162635usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_174055usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_174229usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_174239usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_174240usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_182650usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_182725usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_182807usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_182818usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_185408usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_185534usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_185545usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_190150usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_190238usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_190249usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_190717usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_190727usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_192129usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_192139usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_192604usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_192608usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_192637usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_192642usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-26_192647usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-28_065912usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-28_092752usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-28_092802usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-28_092952usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-28_093204usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-28_093214usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-28_095621usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-28_095831usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-28_095841usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-28_100046usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-28_100220usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-28_100230usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-28_100231usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/2019-04-28_101035usercard.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_134423debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_134423error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_140011debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_140011error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_142520debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_142520error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_142620debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_142620error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_142809debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_142809error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_184338debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_184338error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_184454debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_184454error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_184535debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_184535error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_184556debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_184556error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_184725debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_184725error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_184928debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_184928error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_190621debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_190621error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_193504debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_193504error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_195924debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190425_195924error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_090303debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_090303error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_092340debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_092340error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_094907debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_094907error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_095011debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_095011error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_095121debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_095121error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_102110debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_102110error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_103359debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_103359error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_103452debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_103452error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_103553debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_103553error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_110839debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_110839error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_111038debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_111038error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_121409debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_121409error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_121555debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_121555error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_122435debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_122435error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_133545debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_133545error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_134352debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_134352error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_141906debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_141906error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_142411debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_142411error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_143440debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_143440error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_143620debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_143620error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_145047debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_145047error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_145213debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_145213error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_145405debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_145405error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_145541debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_145541error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_150029debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_150029error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_150155debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_150155error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_150304debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_150304error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_152901debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_152901error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_152947debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_152947error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_162613debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_162613error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_174035debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_174035error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_174219debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_174219error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_182630debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_182630error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_182705debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_182705error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_182757debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_182757error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_185348debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_185348error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_185524debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_185524error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_190130debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_190130error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_190228debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_190228error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_190707debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_190707error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_192119debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_192119error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_192548debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_192548error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_192627debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190426_192627error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_065902debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_065902error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_065943debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_065943error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_092742debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_092742error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_092932debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_092932error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_093153debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_093153error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_095601debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_095601error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_095821debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_095821error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_100026debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_100026error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_100210debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_100210error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_100604debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_100604error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_100731debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_100731error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_100938debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_100938error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_101015debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_101015error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_101523debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_101523error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_102054debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_102054error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_102121debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_102121error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_102207debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_102207error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_102250debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_102250error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_103003debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_103003error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_103348debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_103348error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_103807debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_103807error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_104814debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_104814error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_104950debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_104950error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_105204debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_105204error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_105523debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_105523error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_105848debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_105848error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_110526debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_110526error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_112348debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190428_112348error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190429_091106debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190429_091106error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190429_154514debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190429_154514error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190429_181216debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/log/20190429_181216error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midConnectTest/run_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pressureTestScript/changs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pressureTestScript/common/readfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pressureTestScript/danTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/.idea/PyQt.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/CardWin.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/ServerConnection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/Ui_first.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/WeatherWin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/build/main/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/build/main/main.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/build/main/out00-Analysis.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/build/main/out00-EXE.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/build/main/out00-PKG.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/build/main/out00-PKG.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/build/main/out00-PYZ.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/build/main/out00-PYZ.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/build/main/warnmain.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/build/main/xref-main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/data.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/dist/WeatherWin.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/dist/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/dist/data/data.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/dist/img/Icon-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/dist/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/img/Icon-100.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/img/Icon-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/main.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyQt/readData.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PyQt" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/midConnectTest/conf/majiang/majiang.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/midConnectTest/midConnect/midConnectClient.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2499">
+              <caret line="120" selection-start-line="120" selection-end-line="120" />
+              <folding>
+                <element signature="e#106#152#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4683">
+              <caret line="253" column="49" selection-start-line="253" selection-start-column="49" selection-end-line="253" selection-end-column="49" />
+              <folding>
+                <element signature="e#44#54#0" expanded="true" />
+                <element signature="e#6717#7892#0" />
+                <element signature="e#20903#23831#0" />
+                <element signature="e#21810#23649#0" />
+                <element signature="e#23865#25253#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="47" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GetCardData/get_card.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="804">
+              <caret line="237" column="23" selection-start-line="237" selection-start-column="8" selection-end-line="237" selection-end-column="23" />
+              <folding>
+                <element signature="e#46#175#1" />
+                <element signature="e#264#331#0" />
+                <element signature="e#474#490#0" expanded="true" />
+                <element signature="e#1186#2352#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/majiang.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GetCardData/playBackYards.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3297">
+              <caret line="157" selection-start-line="157" selection-end-line="157" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/python3/Lib/site-packages/itchat/core.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6321">
+              <caret line="306" column="58" selection-start-line="306" selection-start-column="58" selection-end-line="306" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/python3/Lib/site-packages/itchat/components/contact.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8988">
+              <caret line="436" column="18" selection-start-line="436" selection-start-column="18" selection-end-line="436" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/python3/Lib/site-packages/itchat/returnvalues.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>self.show_Information(&quot;%s:%s service restart success ,close to do card&quot; % (versionsName, portNumber))</find>
+      <find>zhuanMa</find>
+      <find>dun</find>
+      <find>versionsName, portNumber</find>
+      <find>checkBox10</find>
+      <find>plainTextEdit</find>
+      <find>logging.info</find>
+      <find>创建房间成功...</find>
+      <find>进入房间</find>
+      <find>玩家</find>
+      <find>进度条数字:</find>
+      <find>进度条数字</find>
+      <find>金币不足</find>
+      <find>333333333333</find>
+      <find>qqqqqqqq</find>
+      <find>我进来嗯咯吗</find>
+      <find>mid_list</find>
+      <find>qs_enter_room</find>
+      <find>self.enter_room_info</find>
+      <find>enter_room</find>
+      <find>玩家加入房间状态</find>
+      <find>加入房间</find>
+      <find>找不到该房间号</find>
+      <find>self.step</find>
+      <find>self.loginInfo</find>
+      <find>扎码个数</find>
+      <find>self.zhuaMa</find>
+      <find>oneLine</find>
+      <find>zhuaMa</find>
+      <find>niao_data</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>service restart success</replace>
+      <replace>B</replace>
+      <replace>self.show_Information(&quot;%s:%s 做牌已开启 &quot; % (versionsName, portNumber))</replace>
+      <replace>self.show_Information(&quot;%s:%s 做牌已关闭 &quot; % (versionsName, portNumber))</replace>
+      <replace>zhuaMa</replace>
+      <replace>portNumber</replace>
+      <replace>portNumber,versionsName</replace>
+      <replace>radioButton10</replace>
+      <replace>print</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/from.py" />
+        <option value="$PROJECT_DIR$/data.ml" />
+        <option value="$PROJECT_DIR$/linuxConnection.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/dist/__init__.py" />
+        <option value="$PROJECT_DIR$/UnFrameStyle.qss" />
+        <option value="$PROJECT_DIR$/Ui_first.py" />
+        <option value="$PROJECT_DIR$/WeatherWin.py" />
+        <option value="$PROJECT_DIR$/Eyetracking_main.py" />
+        <option value="$PROJECT_DIR$/Eyetracking_process.py" />
+        <option value="$PROJECT_DIR$/EyeTracking_ui.py" />
+        <option value="$PROJECT_DIR$/img/动态生成自定义风格按钮/frmmain_ui.py" />
+        <option value="$PROJECT_DIR$/CardWin.py" />
+        <option value="$PROJECT_DIR$/paohuzi.py" />
+        <option value="$PROJECT_DIR$/111.py" />
+        <option value="$PROJECT_DIR$/11.py" />
+        <option value="$USER_HOME$/Desktop/PyQt5图形和特效/jia_16加载GIF动画效果.py" />
+        <option value="$USER_HOME$/Desktop/TowDay_Yes.py" />
+        <option value="$PROJECT_DIR$/weekBonus.py" />
+        <option value="$PROJECT_DIR$/GetCardWin.py" />
+        <option value="$PROJECT_DIR$/GetCardData/playBackYards.py" />
+        <option value="$PROJECT_DIR$/midConnectTest/lib/phz/define/protocol_entity.py" />
+        <option value="$PROJECT_DIR$/midConnectTest/lib/phz/define/protocol_define.py" />
+        <option value="$PROJECT_DIR$/midConnectTest/lib/phz/net/net_unpack.py" />
+        <option value="$PROJECT_DIR$/midConnectTest/midConnect/shaoyangbopi.py" />
+        <option value="$PROJECT_DIR$/pythonWork.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/midConnectTest/common/PublicTestApi.py" />
+        <option value="$PROJECT_DIR$/midConnectTest/common/common_api.py" />
+        <option value="D:/python3/Lib/site-packages/itchat/components/contact.py" />
+        <option value="$PROJECT_DIR$/wxSend.py" />
+        <option value="$PROJECT_DIR$/readData.py" />
+        <option value="$PROJECT_DIR$/while.py" />
+        <option value="$PROJECT_DIR$/midConnectTest/conf/majiang/majiang.yml" />
+        <option value="$PROJECT_DIR$/midConnectTest/midConnect/midConnectClient.py" />
+        <option value="$PROJECT_DIR$/GetCardData/get_card.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/ServerConnection.py" />
+        <option value="$PROJECT_DIR$/data.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1924" />
+    <option name="y" value="7" />
+    <option name="width" value="1776" />
+    <option name="height" value="1006" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JuLangProjectPyqt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuLangProjectPyqt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuLangProjectPyqt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuLangProjectPyqt" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuLangProjectPyqt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuLangProjectPyqt" type="462c0819:PsiDirectoryNode" />
+              <item name="midConnectTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RegressionTest" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\麻将自动化测试\JuLangProjectPyqt\midConnectTest" />
+      <recent name="D:\麻将自动化测试\JuLangProjectPyqt" />
+      <recent name="D:\麻将自动化测试\JuLangProjectPyyt" />
+      <recent name="D:\麻将自动化测试\PyQt" />
+      <recent name="D:\麻将自动化测试\PyQt\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\麻将自动化测试\PyQt\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ServerConnection">
+    <configuration name="ServerConnection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ServerConnection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_card" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GetCardData" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GetCardData/get_card.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyQt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="midConnectClient" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/midConnectTest/midConnect" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/midConnectTest/midConnect/midConnectClient.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="while" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/while.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wxSend" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wxSend.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ServerConnection" />
+        <item itemvalue="Python.get_card" />
+        <item itemvalue="Python.wxSend" />
+        <item itemvalue="Python.while" />
+        <item itemvalue="Python.midConnectClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91b2cd0e-20b7-464a-a73e-7a77449aab5f" name="Default Changelist" comment="" />
+      <created>1548146921437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548146921437</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1924" y="7" width="1776" height="1006" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913645" visible="true" weight="0.18987341" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50086355" side_tool="true" weight="0.26283482" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328125" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23165138" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.14908257" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.328125" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.29905438" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.26720184" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32924107" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/PyQt5图形和特效/jia_20加载QSS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/PyQt5图形和特效/jia_06使用双缓存技术绘制矩形，避免出现重影.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-693">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/PyQt5图形和特效/jia_16加载GIF动画效果.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/PyQt5图形和特效/jia_01设置窗口风格.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/guide.html" />
+    <entry file="file://D:/python3/Lib/site-packages/requests/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="507" selection-start-line="507" selection-end-line="507" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CardWin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2184">
+          <caret line="104" column="70" selection-start-line="104" selection-start-column="70" selection-end-line="104" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playBackWin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TowDay_Yes.py" />
+    <entry file="file://$USER_HOME$/Desktop/作业.py" />
+    <entry file="file://D:/python3/Lib/site-packages/PyQt5/uic/uiparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="832" column="8" lean-forward="true" selection-start-line="832" selection-start-column="8" selection-end-line="832" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-27452815/PyQt5/QtWidgets/QWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="198" selection-start-line="198" selection-end-line="198" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetCardWin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midConnectTest/lib/phz/net/connecter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3675">
+          <caret line="178" selection-start-line="178" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midConnectTest/lib/phz/net/net_unpack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-27452815/PyQt5/QtWidgets/QMainWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="311" column="8" selection-start-line="311" selection-start-column="8" selection-end-line="311" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-27452815/PyQt5/QtWidgets/QStatusBar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="194" column="8" selection-start-line="194" selection-start-column="8" selection-end-line="194" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midConnectTest/lib/phz/define/protocol_define.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-27452815/PyQt5/QtCore/QBasicTimer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-27452815/PyQt5/QtCore/QThread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="134" column="8" selection-start-line="134" selection-start-column="8" selection-end-line="134" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midConnectTest/lib/phz/define/protocol_entity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-27452815/PyQt5/QtWidgets/__init__/QAbstractButton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-27452815/PyQt5/QtWidgets/QAbstractButton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midConnect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="52" column="46" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midConnectTest/common/common_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midConnectTest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-27452815/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="3975" lean-forward="true" selection-start-line="3975" selection-end-line="3975" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/Lib/site-packages/itchat/components/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4165">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/Lib/site-packages/itchat/components/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midConnectTest/common/PublicTestApi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2919">
+          <caret line="144" selection-start-line="144" selection-end-line="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/Lib/site-packages/itchat/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="47" column="48" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while.py" />
+    <entry file="file://$PROJECT_DIR$/QR.png" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/weekBonus.py" />
+    <entry file="file://$PROJECT_DIR$/pythonWork.py" />
+    <entry file="file://$PROJECT_DIR$/wxSend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServerConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midConnectTest/conf/majiang/majiang.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midConnectTest/midConnect/midConnectClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2499">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+          <folding>
+            <element signature="e#106#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4683">
+          <caret line="253" column="49" selection-start-line="253" selection-start-column="49" selection-end-line="253" selection-end-column="49" />
+          <folding>
+            <element signature="e#44#54#0" expanded="true" />
+            <element signature="e#6717#7892#0" />
+            <element signature="e#20903#23831#0" />
+            <element signature="e#21810#23649#0" />
+            <element signature="e#23865#25253#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/majiang.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetCardData/playBackYards.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3297">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/Lib/site-packages/itchat/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6321">
+          <caret line="306" column="58" selection-start-line="306" selection-start-column="58" selection-end-line="306" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/Lib/site-packages/itchat/components/contact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8988">
+          <caret line="436" column="18" selection-start-line="436" selection-start-column="18" selection-end-line="436" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/Lib/site-packages/itchat/returnvalues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetCardData/get_card.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="804">
+          <caret line="237" column="23" selection-start-line="237" selection-start-column="8" selection-end-line="237" selection-end-column="23" />
+          <folding>
+            <element signature="e#46#175#1" />
+            <element signature="e#264#331#0" />
+            <element signature="e#474#490#0" expanded="true" />
+            <element signature="e#1186#2352#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

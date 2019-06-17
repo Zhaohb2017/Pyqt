@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>650</width>
+    <height>528</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QToolButton" name="phzBtn">
+   <property name="geometry">
+    <rect>
+     <x>9</x>
+     <y>367</y>
+     <width>91</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>跑胡子</string>
+   </property>
+  </widget>
+  <widget class="QToolButton" name="majiangBtn">
+   <property name="geometry">
+    <rect>
+     <x>9</x>
+     <y>232</y>
+     <width>91</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>麻将</string>
+   </property>
+  </widget>
+  <widget class="QToolButton" name="runfastBtn">
+   <property name="geometry">
+    <rect>
+     <x>9</x>
+     <y>117</y>
+     <width>91</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>跑得快</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

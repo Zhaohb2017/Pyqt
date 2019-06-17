@@ -1,0 +1,39 @@
+majiang_local_server_user: "caocheng"
+majiang_local_server_password: "123456"
+majiang_local_server_host: "192.168.1.28"
+majiang_local_server_port: 36000
+
+majiang_test_server_user: "user_02"
+majiang_test_server_password: "7i9*7GNPvUVi*%8X2e"
+majiang_test_server_host: "120.27.138.177"
+majiang_test_server_port: 35001
+
+
+
+
+
+majiangLocalServiceRestart9007: "cd /home/caocheng/testworkspace/paohuzi/;./restart.sh"
+
+Main_local_paohuzi: "cd /home/caocheng/newworkspace/paohuzi/;./restart.sh"
+Main_local_majiang: "cd /home/caocheng/newworkspace/majiang/;./restart.sh"
+Main_local_runfast: "cd /home/caocheng/newworkspace/runfast/;./restart.sh"
+
+changsha_local_paohuzi: "cd /home/caocheng/csworkspace/paohuzi/;./restart.sh"
+changsha_local_majiang: "cd /home/caocheng/csworkspace/majiang/;./restart.sh"
+changsha_local_runfast: "cd /home/caocheng/csworkspace/runfast/;./restart.sh"
+
+changde_local_paohuzi: "cd /home/caocheng/cdworkspace/paohuzi/;./restart.sh"
+changde_local_majiang: "cd /home/caocheng/cdworkspace/majiang/;./restart.sh"
+changde_local_runfast: "cd /home/caocheng/cdworkspace/runfast/;./restart.sh"
+
+Main_test_paohuzi: "cd /mydata/user_02/majiang_worspace/paohuzi/;./restart.sh"
+Main_test_majiang: "cd /mydata/user_02/majiang_worspace/majiang/;./restart.sh"
+Main_test_runfast: "cd /mydata/user_02/majiang_worspace/runfast/;./restart.sh"
+
+changsha_test_paohuzi: "cd /mydata/user_02/majiangcs_worspace/paohuzi/;./restart.sh"
+changsha_test_majiang: "cd /mydata/user_02/majiangcs_worspace/majiang/;./restart.sh"
+changsha_test_runfast: "cd /mydata/user_02/majiangcs_worspace/runfast/;./restart.sh"
+
+changde_test_paohuzi: "cd /mydata/user_02/majiangcd_worspace/paohuzi/;./restart.sh"
+changde_test_majiang: "cd /mydata/user_02/majiangcd_worspace/majiang/;./restart.sh"
+changde_test_runfast: "cd /mydata/user_02/majiangcd_worspace/runfast/;./restart.sh"
